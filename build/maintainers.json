@@ -78,11 +78,11 @@
   "/0x80/blog": [
     "xnum"
   ],
-  "/141jav/:type/:keyword{.*}?": [
+  "/141jav/{.*}?": [
     "cgkings",
     "nczitzk"
   ],
-  "/141ppv/:type/:keyword{.*}?": [
+  "/141ppv/{.*}?": [
     "cgkings",
     "nczitzk"
   ],
@@ -2339,9 +2339,6 @@
   ],
   "/google/news/:category/:locale": [
     "zoenglinghou"
-  ],
-  "/google/research": [
-    "Levix"
   ],
   "/google/scholar/:query": [
     "HenryQW"

@@ -5835,9 +5835,6 @@
   "/tgbus/list/:category": [
     "Xzonn"
   ],
-  "/the/:filter{.+}?": [
-    "nczitzk"
-  ],
   "/theatlantic/:category": [
     "EthanWng97"
   ],
